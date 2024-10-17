@@ -1,5 +1,6 @@
 
 <?php 
+#Комм
 
 $conn = new mysqli("fizik38-mysql-1", "root", "LEGOduplo16", "fizik38-shedule-db");
 if($conn->connect_error)
